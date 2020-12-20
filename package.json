@@ -1,0 +1,11 @@
+{
+  "name": "statz",
+  "version": "0.1.0",
+  "description": "Mise en forme des statisques CA-GIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan MARCHAND",
+  "license": "ISC"
+}
