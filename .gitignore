@@ -10,3 +10,8 @@ node_modules/
 # this directory and all its sub-directories.
 *.bak
 .gitignore
+
+# Environment file that contains parameters to connect to the ldap server
+# It is used by the "dotenv" module
+# A model of this file is available : .env.example
+.env
